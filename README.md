@@ -20,3 +20,6 @@ I worked at a kid's bungee jump and animal cars attraction for almost 2 years. I
 * #### Computer Hardware
   * Graduating from Warren Tech in May, in the cybersecurity/ computer science class.
   * Expecting A+ certification by the end of May 
+* #### Python (Programming Language)
+  * Began practicing in August, 2024
+  * *My most significant Python projects are linked to my profile*
